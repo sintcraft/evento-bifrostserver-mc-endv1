@@ -1,0 +1,29 @@
+main: com.sint.plugin.Main
+name: end-event-bifrostServer
+version: 0.2
+author: sintcraft
+commands:
+  next:
+    permission: sintcraft.solo.sintcraft
+    description: Lo usaras por las webas :3
+    permission-message: No tienes permisos causa :v te lo dije xd
+  start-event:
+    permission: sintcraft.solo.sintcraft
+    description: Lo usaras por las webas :3
+    permission-message: No tienes permisos causa :v te lo dije xd
+  event-spawn:
+    permission: sintcraft.solo.sintcraft
+    description: Solo admins
+    permission-message: Que hacias ptito?
+  endcrystals:
+    permission: sintcraft.solo.sintcraft
+    description: Solo admins
+    permission-message: Que hacias ptito?
+  bolitas:
+    permission: sintcraft.solo.sintcraft
+    description: Solo admins
+    permission-message: Que hacias ptito?
+  finevent:
+    permission: sintcraft.solo.sintcraft
+    description: Solo admins
+    permission-message: Que hacias ptito?
